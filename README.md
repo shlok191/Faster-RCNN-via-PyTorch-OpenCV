@@ -4,5 +4,11 @@ This project showcases a passion project towards the implementation of the novel
 
 **Model Results visualized**
 
-Following displays a short video of real time object detection and classification for traffic on the road, generated via an OpenCV pipeline.
+Following displays a display image of real time object detection and classification for traffic on the road, generated via an OpenCV pipeline:
+
+![Demo Image](./F-R-CNN_demo-0.jpg)
+
+The full video is available as the demo.mp4 video! (Unfortunately, GitHub does not allow embedding videos!)
+I have plans to implement a Mask R-CNN model on top of this, stay tuned!
+
 
