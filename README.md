@@ -1,4 +1,4 @@
-# Faster R-CNN via PyTorch and OpenCV
+# Faster R-CNN implementation with PyTorch and OpenCV
 
 This project showcases a passion project towards the implementation of the novel Faster Regional Convolutional Neural Network (Faster R-CNN) deep learning model. For the implementation of this projet, I utilized PyTorch with an additional expansion for real time usage via OpenCV! This model was trained on an estimated of 100k images from Microsoft's COCO dataset, achieving a final accuracy of 65%.
 
